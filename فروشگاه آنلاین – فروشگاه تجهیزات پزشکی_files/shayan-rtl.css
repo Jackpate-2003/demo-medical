@@ -1,0 +1,7 @@
+/*
+By: Shayan Farhang Pazhooh - ShayanWeb.com
+*/
+*{outline:none!important}
+#commentform.comment-form p.comment-form-cookies-consent{display:inline-block;width:100%}
+.woocommerce-review__published-date{display:inline-block}
+.rtl .ast-comment-cite-wrap{text-align:right!important}
